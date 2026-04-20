@@ -1,0 +1,10 @@
+streamlit
+geopandas
+folium
+streamlit-folium
+branca
+scipy
+shapely
+numpy
+pandas
+matplotlib
