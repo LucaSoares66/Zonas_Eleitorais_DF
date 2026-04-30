@@ -8,3 +8,5 @@ shapely
 numpy
 pandas
 matplotlib
+warnings 
+pathlib
